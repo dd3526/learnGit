@@ -7,8 +7,14 @@ this is my first file
 added second text
 
 
+Beans
+Pizza
+
 
 thank you
+
+
+Done my changes
 
 
 Final copy
